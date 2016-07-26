@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PSppy
 
 
@@ -30,3 +31,7 @@ PSppy
 
 
 PAPPY
+=======
+Hi How r u Frst Repositories
+yes first repository
+>>>>>>> parent of 16e4a20... spome changes in 1.txt
